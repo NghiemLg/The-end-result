@@ -1,0 +1,1 @@
+Em train model SimpleCNN thì đến khoảng 4-5/30 epoch thì model có dấu hiệu bị overfit nên em dừng sớm model ạ.
